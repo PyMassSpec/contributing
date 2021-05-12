@@ -22,3 +22,7 @@ Contributing Guide
 	documentation
 	building
 	release-process
+
+.. sidebar-links::
+	:caption: Links
+	:github:
