@@ -4,9 +4,17 @@ name: Linux
 
 on:
   push:
+    branches-ignore:
+      - 'repo-helper-update'
+      - 'pre-commit-ci-update-config'
+      - 'imgbot'
+    tags:
+      - '*'
+  pull_request:
 
 permissions:
   actions: write
+  issues: write
   contents: read
 
 jobs:
