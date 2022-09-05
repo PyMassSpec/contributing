@@ -24,10 +24,6 @@ Homepage = "https://github.com/PyMassSpec/contributing"
 "Source Code" = "https://github.com/PyMassSpec/contributing"
 Documentation = "https://contributing-to-pyms.readthedocs.io"
 
-[tool.mkrecipe]
-conda-channels = [ "PyMassSpec",]
-extras = "all"
-
 [tool.whey]
 base-classifiers = []
 python-versions = [ "3.8",]
