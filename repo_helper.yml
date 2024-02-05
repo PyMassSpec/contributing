@@ -17,6 +17,7 @@ enable_tests: false
 enable_conda: false
 on_pypi: false
 docs_url: https://contributing-to-pyms.readthedocs.io
+preserve_custom_theme: true
 
 python_versions:
  - '3.8'
@@ -26,6 +27,7 @@ sphinx_conf_epilogue:
  - del version
  - del release
  - html_title = "PyMassSpec Contributing Guide"
+ - html_logo = "PyMassSpec_262.png"
 
 extra_sphinx_extensions:
  - html_section
