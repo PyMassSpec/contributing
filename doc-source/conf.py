@@ -103,3 +103,4 @@ nitpicky = True
 del version
 del release
 html_title = "PyMassSpec Contributing Guide"
+html_logo = "PyMassSpec_262.png"
