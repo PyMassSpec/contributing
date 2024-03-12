@@ -102,4 +102,4 @@ def setup(app):
 nitpicky = True
 del version
 del release
-html_title = "repo-helper Contributing Guide"
+html_title = "PyMassSpec Contributing Guide"
