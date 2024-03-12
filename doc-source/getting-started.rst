@@ -49,7 +49,7 @@ With bash:
 
 .. code-block:: bash
 
-	(repo-helper) $
+	(PyMassSpec) $
 
 
 .. _GitHub: https://github.com/
